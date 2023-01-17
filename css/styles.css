@@ -1,0 +1,19 @@
+body {
+    background-color: transparent;
+}
+
+.header,
+.dish {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.recipe-links {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.image {
+    height: auto;
+    width: 400px;
+}
